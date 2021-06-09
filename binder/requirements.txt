@@ -1,9 +1,0 @@
-- open3d==0.12.0
-- matplotlib=3.4.2
-- pandas=1
-- python=3.7
-- scikit-image=0.15
-- scikit-learn=0.24
-- seaborn=0.11
-- pyyaml
-- opencv-python=4.5.2.52
