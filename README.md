@@ -1,2 +1,6 @@
+#Welcome to Visual Fusion
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jeremy26/visual_fusion_course/HEAD?filepath=https%3A%2F%2Fgithub.com%2FJeremy26%2Fvisual_fusion_course%2Fblob%2Fmain%2FVisual%2520Fusion.ipynb)
+In this course, you're going to learn how to fuse data from a LiDAR and a Camera!
+
+Original Course: https://courses.thinkautonomous.ai/visual-fusion
+
